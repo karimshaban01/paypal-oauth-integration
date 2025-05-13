@@ -1,0 +1,16 @@
+{
+  "name": "paypal-integration",
+  "version": "1.0.0",
+  "description": "A project to integrate PayPal payment processing.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.8.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
